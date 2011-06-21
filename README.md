@@ -1,8 +1,6 @@
-Wraps the static code analyze tool Checkstyle into a simple JUnit test. 
+Wraps the static code analyze tool [Checkstyle](http://checkstyle.sourceforge.net/) into a simple JUnit test. 
 
 ![alt text](https://github.com/corgrath/JUnit-Checkstyle-Test-Wrapper/raw/master/doc/wiki/results.png "The JUnit results in Eclipse")
-
-
 
 Download
 ========================================
