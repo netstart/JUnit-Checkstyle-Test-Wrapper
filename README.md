@@ -65,6 +65,12 @@ Run and view the results
 
 ![alt text](https://github.com/corgrath/JUnit-Checkstyle-Test-Wrapper/raw/master/doc/wiki/results.png "The JUnit results in Eclipse")
 
+JavaDoc
+========================================
+
+http://dl.dropbox.com/u/8183146/persistent/projects/java_junit_checkstyle_wrapper/javadoc/index.html
+
+
 License
 ========================================
 
