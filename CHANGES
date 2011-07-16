@@ -1,4 +1,9 @@
- v1.1 2011-06-11 Christoffer Pettersson
+v1.2 2011-07-16 Christoffer Pettersson
+
+ * Renamed package structure
+ 
+
+v1.1 2011-06-11 Christoffer Pettersson
  
  * Refactorized classes
  

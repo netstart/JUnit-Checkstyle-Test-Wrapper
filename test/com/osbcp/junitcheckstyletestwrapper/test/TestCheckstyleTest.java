@@ -15,11 +15,12 @@
  * information regarding copyright ownership.
  */
 
-package me.christoffer.junitcheckstyletestwrapper.test;
+package com.osbcp.junitcheckstyletestwrapper.test;
 
-import me.christoffer.junitcheckstyletestwrapper.JUnitCheckstyleTestWrapper;
 
 import org.junit.Test;
+
+import com.osbcp.junitcheckstyletestwrapper.JUnitCheckstyleTestWrapper;
 
 /**
  * Contains the Checkstyle tests

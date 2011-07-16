@@ -15,7 +15,7 @@
  * information regarding copyright ownership.
  */
 
-package me.christoffer.junitcheckstyletestwrapper;
+package com.osbcp.junitcheckstyletestwrapper;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;

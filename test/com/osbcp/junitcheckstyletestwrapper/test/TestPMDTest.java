@@ -15,7 +15,7 @@
  * information regarding copyright ownership.
  */
 
-package me.christoffer.junitcheckstyletestwrapper.test;
+package com.osbcp.junitcheckstyletestwrapper.test;
 
 import me.christoffer.junitpmdtestwrapper.JUnitPMDTestWrapper;
 
