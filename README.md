@@ -32,20 +32,18 @@ Create a JUnit test case
 
 Write a JUnit test case using the wrapper.
 
-	package src;
-	
-	import me.christoffer.junitcheckstylewrapper.JunitCheckstyleTestWrapper;
-	
 	import org.junit.Test;
+	
+	import com.osbcp.junitcheckstyletestwrapper.JUnitCheckstyleTestWrapper;
 	
 	public class TestCheckstyle {
 	
-	        @Test
-	        public void testSrc() throws Exception {
+		@Test
+		public void testSrc() throws Exception {
 	
-	                JunitCheckstyleTestWrapper.run(this, "./src/", "checkstyle.xml");
+			JUnitCheckstyleTestWrapper.run(this, "./src/", "checkstyle.xml");
 	
-	        }
+		}
 	
 	}
 		
